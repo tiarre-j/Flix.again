@@ -39,7 +39,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="LoginActivity2.gif" width=250><br>
 
 ### Notes
-Changing to Landscape.
+
+My Emulator failed to down Google Chrome for Genymotion. Therefore I was unable to proceed to execut the Youtube video on android Studio. 
 
 ### Open-source libraries used
 
